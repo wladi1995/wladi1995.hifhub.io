@@ -1,0 +1,59 @@
+h1 {
+    font-style: oblique;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    border-style: none;
+}
+
+.mi-icon {
+    font-size: 30px;
+}
+
+.mi-icono {
+    font-size: 80px;
+}
+
+/* Ajusta el CSS para hacer el contenedor de productos más grande */
+.productos {
+    max-width: 1200px; /* Ajusta el ancho del contenedor de productos según tus necesidades */
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col-lg-3 {
+    width: 24%; /* Cada columna ocupa el 24% del ancho del contenedor principal (deja un pequeño espacio para evitar desbordamientos) */
+}
+
+.producto {
+    width: 100%;
+    margin-bottom: 20px;
+    height: 12cm;
+}
+
+.producto img {
+    max-width: 100%;
+    height: auto;
+}
+
+.precio {
+    font-weight: bold;
+    color: #333;
+}

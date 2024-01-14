@@ -1,0 +1,55 @@
+h1{
+    font-style: oblique;
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+p{
+    
+    text-align: center;
+}
+table{
+border-style: none;
+}
+
+.mi-icon{
+    font-size: 30px;
+}
+.mi-icono{
+    font-size: 80px; 
+}
+
+main.nosotros {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.6em; /* Ajusta el tamaño del texto según tus necesidades */
+    font-family: 'Arial', sans-serif; /* Cambia el tipo de letra según tus necesidades */
+}
+
+
+.empresa-info img {
+    width: 200px; /* Ajusta el tamaño según tus necesidades */
+    height: 200px; /* Ajusta el tamaño según tus necesidades */
+    border-radius: 50%; /* Hace que la imagen sea circular */
+   /* border-style: initial;*/
+    margin: 20px auto; /* Centra la imagen */
+}
+
+.equipo {
+    text-align: center;
+}
+
+.miembro-equipo {
+    margin-top: 20px;
+}
+
+.miembro-equipo img {
+    width: 300px; /* Ajusta el tamaño de la imagen según tus necesidades */
+    height: 250px; /* Ajusta el tamaño de la imagen según tus necesidades */
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
